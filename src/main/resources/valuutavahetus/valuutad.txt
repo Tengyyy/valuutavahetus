@@ -1,0 +1,32 @@
+Šveitsi frank;CHF;₣;1.00301;true
+Austraalia dollar;AUD;$;0.61973;true
+Brasiilia reaal;BRL;R$;0.17702;false
+Bulgaaria leev;BGN;Лв;0.51130;false
+Euro;EUR;€;1.00000;true
+Filipiini peeso;PHP;₱;0.01710;false
+Hiina jüaan;CNY;¥;0.13503;false
+Hongkongi dollar;HKD;$;0.11828;false
+Iisraeli seekel;ILS;₪;0.25400;false
+India ruupia;INR;₹;0.01123;false
+Indoneesia ruupia;IDR;Rp;0.00006;false
+Islandi kroon;ISK;kr;0.00666;true
+Jaapani jeen;JPY;¥;0.00701;true
+Kanada dollar;CAD;$;0.67907;true
+Korea vonn;KRW;₩;0.00071;false
+Lõuna-Aafrika rand;ZAR;R;0.05009;false
+Malaisia ringgit;MYR;RM;0.20749;false
+Mehhiko peeso;MXN;$;0.04964;false
+Norra kroon;NOK;kr;0.08840;true
+Poola zlott;PLN;zł;0.21278;true
+Rootsi kroon;SEK;kr;0.09010;true
+Singapuri dollar;SGD;$;0.69483;false
+Suurbritannia naelsterling;GBP;£;1.13594;true
+Tšehhi kroon;CZK;Kč;0.04194;true
+Taani kroon;DKK;kr;0.13429;true
+Tai baat;THB;฿;0.02708;false
+Türgi liir;TRY;₺;0.04877;true
+USA dollar;USD;$;0.92799;true
+Ungari forint;HUF;Ft;0.00255;true
+Uus-Meremaa dollar;NZD;$;0.57432;false
+Rumeenia leu;RON;L;0.20315;false
+Lääne-Aafrika CFA frank;XOF;₣;0.00152;false

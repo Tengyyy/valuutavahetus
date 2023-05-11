@@ -11,6 +11,8 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.util.Pair;
 
+import java.io.IOException;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
@@ -44,7 +46,11 @@ public class Controller implements Initializable {
     @Override
     public void initialize(URL arg0, ResourceBundle arg1) {
 
-        valuutavahetus = new Valuutavahetus();
+        try {
+            valuutavahetus = new Valuutavahetus();
+        } catch (IOException | URISyntaxException e) {
+            System.out.println("Valuuta infot ei õnnestunud lugeda");
+        }
 
         inputCurrencyPicker.getItems().add("Olemasolev valuuta");
         inputCurrencyPicker.getSelectionModel().select("Olemasolev valuuta");
